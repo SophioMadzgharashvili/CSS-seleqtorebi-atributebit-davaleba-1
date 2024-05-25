@@ -84,5 +84,6 @@ input[type="button"] {
     margin: auto;
     display: block;
     font-weight: 700;
+    font-size: 15px;
     margin-top: 25px;
 }
